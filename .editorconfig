@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Editor configuration, see https://editorconfig.org
+=======
+# Editor configuration, see http://editorconfig.org
+>>>>>>> refs/remotes/origin/main
 root = true
 
 [*]
@@ -8,9 +12,12 @@ indent_size = 2
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+<<<<<<< HEAD
 [*.ts]
 quote_type = single
 
+=======
+>>>>>>> refs/remotes/origin/main
 [*.md]
 max_line_length = off
 trim_trailing_whitespace = false
